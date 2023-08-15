@@ -1,0 +1,29 @@
+N # Typ meczu: N/D/DD/K/DK, te z "D" oznaczją drugi mecz dwumeczu [póki co działa tylko N!]
+5 # Bonus to statystyk dla gospodarza (sugerowane:5)
+0 0 # Wynik pierwszego meczu, nawet jak to nie jest dwumecz muszą być jakieś 2 cyferki
+Juventus Turyn :Juventus:
+Massimiliano Allegri :flag_it: 80 80 80
+W. Szczesny :flag_pl: GK 86
+Danilo :flag_br: SO 81
+Bremer :flag_br: SO 83
+Alex Sandro :flag_br: SO 80
+M. Locatelli :flag_it: SPD 82
+W. McKennie :flag_us: SP 79
+A. Rabiot :flag_fr: SP 81
+F. Chiesa :flag_it: PP 84
+F. Kostic :flag_rs: LP 85
+A. Milik :flag_pl: N 80
+A. Di Maria :flag_ar: N 84
+Napoli :Napoli:
+Rudi Garcia :flag_cp: 81 83 84
+A. Meret :flag_it: GK 80
+M. Olivera :flag_uy: LO 80
+Min-Jae Kim :flag_kr: SO 84
+A. Rrahmani :flag_xk: SO 82
+G. Di Lorenzo :flag_it: PO 83
+F. Anguissa :flag_cm: SP 83
+S. Lobotka :flag_sk: SP 83
+P. Zielinski :flag_pl: SP 83
+K. Kvaratskhelia :flag_ge: LS 85
+V. Osimhen :flag_ng: N 88
+H. Lozano :flag_mx: PS 82
